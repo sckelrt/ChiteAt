@@ -1,6 +1,7 @@
 def main():
     print('My first git program')
 
-# a
+
+# help как это работает
 if __name__ == '__main__':
     main()
